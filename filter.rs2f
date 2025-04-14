@@ -1,1 +1,4 @@
-
+meta {
+  name="my filter"
+  description="a description"
+}
